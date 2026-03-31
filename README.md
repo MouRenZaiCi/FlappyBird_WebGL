@@ -3,4 +3,6 @@
 
 点击试玩https://mourenzaici.github.io/FlappyBird_WebGL/
 
-PS：unity固定分辨率发布可能只有PC网页的比例看起来比较合适，源码仓库:https://github.com/MouRenZaiCi/FlappyBird/blob/main/README.md
+PS：unity固定分辨率发布可能只有PC网页的比例看起来比较合适
+源码仓库:https://github.com/MouRenZaiCi/FlappyBird/blob/main/README.md
+欢迎大佬在屎上雕花(bushi
